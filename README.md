@@ -1,6 +1,5 @@
-# Jetpedia
-Welcome to the Jetpedia project, forked from the failed Dostene project. 
+#Jetpedia
+Welcome to Jetpedia, the free online encyclopedia. This version is really unstable, so it might contain missing features, incomplete articles. You can contribute!
 
-Latest version: 1.0 Alpha 2.0.2
-New features:
-- Tutorial
+# Installation
+The homepage of the encyclopedia is at "dostene.html". Sorry for this unconventional name!
